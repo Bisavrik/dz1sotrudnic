@@ -1,0 +1,8 @@
+﻿  Function.cpp
+C:\Users\sofia\source\repos\dz1sotrudnic\dz1sotrudnic\Function.cpp(21,12): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sofia\source\repos\dz1sotrudnic\dz1sotrudnic\Function.cpp(28,12): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sofia\source\repos\dz1sotrudnic\dz1sotrudnic\Function.cpp(35,12): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Main.cpp
+  Создание кода...
+C:\Users\sofia\source\repos\dz1sotrudnic\dz1sotrudnic\Function.cpp(126,1): warning C4715: searchBySalary: значение возвращается не при всех путях выполнения
+  dz1sotrudnic.vcxproj -> C:\Users\sofia\source\repos\dz1sotrudnic\x64\Debug\dz1sotrudnic.exe
